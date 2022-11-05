@@ -1,0 +1,44 @@
+[
+    { 
+        "nome": "Filé de Frango Grelhado",
+        "descricao": "Acompanha uma porção de arroz e molho madeira",
+        "valor": 100,
+        "quantidade": 0,
+        "img": "img/frango.jpeg"
+    },
+    {
+        "nome": "Peixe Grelhado",
+        "descricao": "Acompanha uma porção de arroz e azeite de oliva ",
+        "valor": 100,
+        "quantidade": 0,
+        "img": "img/peixe.webp"
+    },
+    {
+        "nome": "Camarão Empanado",
+        "descricao": "Aproximadamente 500g de camarão empanado crocrante",
+        "valor": 100,
+        "quantidade": 0,
+        "img": "img/camarao.jpg"
+    },
+    {
+        "nome": "Strogonoff de Frango",
+        "descricao": "Acompanha uma porção de arroz e batata frita",
+        "valor": 100,
+        "quantidade": 0,
+        "img": "img/strogonoff.jpg"
+    },
+    {
+        "nome": "Mix de Saladas",
+        "descricao": "Um delicioso mix de saladas frescas",
+        "valor": 100,
+        "quantidade": 0,
+        "img": "img/salada.jpg"
+    },
+    {
+        "nome": "Pizza Fugazzeta",
+        "descricao": "Pizza especial da casa sabor Fugazzeta + Napolitano",
+        "valor": 100,
+        "quantidade": 0,
+        "img": "img/pizza.jpg"
+    }
+]
