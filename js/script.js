@@ -88,9 +88,9 @@ function enviar() {
     msgModal = msgModal.replaceAll("<p>", "").replaceAll("</p>", "\n");
     msgModal = msgModal.replaceAll("<b>", "*").replaceAll("</b>", "*");
     let nome = document.querySelector("#nome").value;
-    let mesa = document.querySelector("#mesa").value;
+    let endereco = document.querySelector("#endereco").value;
     msgModal += `\nNome: *${nome}*`;
-    msgModal += `\Mesa: *${mesa}*`;
+    msgModal += `\Endereço: *${endereco}*`;
     msgModal = encodeURI(msgModal);
 
     link = `https://api.whatsapp.com/send?phone=${fone}&text=${msgModal}`;
